@@ -14,8 +14,8 @@ The Case studies contain datasets from the following domains:
 
 | Week | Case Study | Solution |
 |------|------------|----------|
-| 1 | [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)| [Here]() |
-| 2 | [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) | [Here]() |
+| 1 | [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)| [Here](https://github.com/EmmanuelUgo/sql_challenge/tree/main/week%201) |
+| 2 | [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) | [Here](https://github.com/EmmanuelUgo/sql_challenge/tree/main/week%202) |
 | 3 | [Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/) | [Here]() |
 | 4 | [Data Bank](https://8weeksqlchallenge.com/case-study-4/) | [Here]() |
 | 5 | [Data Mart](https://8weeksqlchallenge.com/case-study-5/) | [Here]() |
